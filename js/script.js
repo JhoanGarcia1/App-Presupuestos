@@ -149,5 +149,6 @@ let agregarDato = () => {
       cargarCabecero();
       cargarEgresos();
     }
+    forma.reset();
   }
 };
